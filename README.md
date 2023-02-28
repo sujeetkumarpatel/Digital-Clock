@@ -1,4 +1,4 @@
-# this digital clock project created HTML, CSS & javascript.
+# this digital clock project created by using  HTML, CSS & javascript.
 
 
 
